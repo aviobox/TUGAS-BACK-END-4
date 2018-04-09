@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MLab": {
+    "host": "ds131989.mlab.com",
+    "port": 31989,
+    "url": "mongodb://rizkifirdaus:12345@ds131989.mlab.com:31989/pegawai",
+    "database": "pegawai",
+    "password": "12345",
+    "name": "MLab",
+    "user": "rizkifirdaus",
+    "connector": "mongodb"
+  }
+}
